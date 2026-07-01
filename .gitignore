@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+
+# Data files (too large for Git; see data/README.md)
+data/episodes/
+data/raw/
+data/*.csv
+data/*.xlsx
+data/*.json
+outputs/*.csv
+outputs/*.xlsx
+outputs/*.png
+outputs/*.pdf
+
+# Exception: keep codebook JSONs and sample files
+!codebook/*.json
+!codebook/*.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Secrets — never commit API keys
+*.env
+secrets.py
+api_key.txt
