@@ -270,4 +270,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ## Acknowledgements
 
-The authors thank the Innovation Fuel team at University Canada West for making the podcast corpus publicly available, and the human coder who contributed to the validation study.
+The authors thank the Innovation Fuel team at Impact Education Foundation for making the podcast corpus publicly available.
